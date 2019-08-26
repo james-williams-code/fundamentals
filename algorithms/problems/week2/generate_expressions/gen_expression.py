@@ -1,0 +1,3 @@
+'''
+generate the three expressions
+'''
